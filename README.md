@@ -1,2 +1,2 @@
-# atlas
+# Atlas
 Assignment #6
